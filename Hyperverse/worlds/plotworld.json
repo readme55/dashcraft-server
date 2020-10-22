@@ -1,0 +1,12 @@
+{
+  "name": "plotworld",
+  "type": "OVER_WORLD",
+  "worldFeatures": "NORMAL",
+  "settings": "",
+  "seed": 7221899639207263577,
+  "generateStructures": true,
+  "generator": "PlotSquared",
+  "generatorArg": "",
+  "loaded": true,
+  "flags": {}
+}

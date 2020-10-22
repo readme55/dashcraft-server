@@ -1,0 +1,12 @@
+{
+  "name": "plotworld_the_end",
+  "type": "END",
+  "worldFeatures": "NORMAL",
+  "settings": "",
+  "seed": 7221899639207263577,
+  "generateStructures": true,
+  "generator": "",
+  "generatorArg": "",
+  "loaded": true,
+  "flags": {}
+}

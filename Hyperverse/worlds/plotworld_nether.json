@@ -1,0 +1,12 @@
+{
+  "name": "plotworld_nether",
+  "type": "NETHER",
+  "worldFeatures": "NORMAL",
+  "settings": "",
+  "seed": 7221899639207263577,
+  "generateStructures": true,
+  "generator": "",
+  "generatorArg": "",
+  "loaded": true,
+  "flags": {}
+}
