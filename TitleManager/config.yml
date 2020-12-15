@@ -252,7 +252,7 @@ announcer:
         stay: 60
         fade-out: 20
       titles:
-      - '&bType "/plot auto" to claim a plot to build\n&bType "/plot help" for help'
+      #- '&bType "/plot auto" to claim a plot to build\n&bType "/plot help" for help'
       #- '&1Type "/dash" for command list\n&1Type "/dash help" for help'
       actionbar:
       # - '&aThis is the 1st actionbar announcement'
