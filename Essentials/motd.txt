@@ -1,0 +1,5 @@
+&6Welcome to &b&lDashcraft&6, &d{PLAYER}&6!
+&6Type &dt&6 on Keyboard to open Chat and then type &d/plot auto&6 to claim a plot for building.
+&6Enter &d/dash&6 to view commands for Non-Fungible-Token creation.
+&6Click &a&n&lhttps://github.com/readme55/Dashcraft&6 for more info!
+&6Players online:&c {ONLINE}

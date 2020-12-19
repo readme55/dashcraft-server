@@ -1,0 +1,17 @@
+disable-weather-changes: true
+
+disable-redstone: false
+
+disable-physics: false
+
+disable-gravity-physics: false
+
+disable-explosions: true
+
+disable-soil-trample: true
+
+disable-leaves-decay: true
+
+fix-attackspeed: false
+
+prevent-dragon-egg-teleport: true
